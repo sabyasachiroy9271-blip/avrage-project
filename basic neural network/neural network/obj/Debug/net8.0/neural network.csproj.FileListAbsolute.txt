@@ -1,0 +1,14 @@
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\bin\Debug\net8.0\neural network.exe
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\bin\Debug\net8.0\neural network.deps.json
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\bin\Debug\net8.0\neural network.runtimeconfig.json
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\bin\Debug\net8.0\neural network.dll
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\bin\Debug\net8.0\neural network.pdb
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.AssemblyInfoInputs.cache
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.AssemblyInfo.cs
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.csproj.CoreCompileInputs.cache
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.dll
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\refint\neural network.dll
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.pdb
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\neural network.genruntimeconfig.cache
+C:\Users\Sabyasachi Roy\source\repos\neural network\neural network\obj\Debug\net8.0\ref\neural network.dll
